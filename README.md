@@ -1,0 +1,3 @@
+# wikiElahi
+- npm install
+# wiki
